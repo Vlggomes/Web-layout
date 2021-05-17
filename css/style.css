@@ -1,0 +1,10 @@
+* {
+    background-color: lightgreen;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+#container {
+    height: 1000px;
+    width: 0 auto;
+}
